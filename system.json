@@ -1,0 +1,39 @@
+{
+    "id": "rebirthsystem",
+    "title": "Project Rebirth System Core",
+    "description": "ICRPG hack inspired by Destiny universe",
+    "version": "0.0.1",
+    "compatability": {
+        "minimum": 14,
+        "verified": 14
+    },
+    "authors": [{
+        "name": "Jove",
+        "discord": "jove_"
+    }],
+    "esmodules": ["rebirthsystem.mjs"],
+    "styles": ["styles/rebirthsystem.css"],
+    "packs": [],
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    }],
+    "documentTypes": {
+        "Actor": {
+            "character": {}
+        },
+        "Item": {
+            "weapon": {},
+            "ability": {}
+        }
+    },
+    "socket": false,
+    "grid": {
+        "distance": 5,
+        "units": "ft"
+    },
+    "url": "https://github.com/Joe-Verdon/rebirthsystem/",
+    "manifest": "https://github.com/Joe-Verdon/rebirthsystem/system.json",
+    "download": ""
+}
