@@ -3,7 +3,7 @@
     "title": "Project Rebirth System Core",
     "description": "ICRPG hack inspired by Destiny universe",
     "version": "0.0.1",
-    "compatability": {
+    "compatibility": {
         "minimum": 14,
         "verified": 14
     },
